@@ -48,6 +48,8 @@ public class Principal {
 		
 		
 		System.out.println("Hola mundo excelente dia");
+		
+		System.out.println("Excelente fin de semana");
 
 	}
 
